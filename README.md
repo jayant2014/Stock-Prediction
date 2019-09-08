@@ -12,4 +12,4 @@ Following are the steps covered for this prediction.
 7. Generated model using traing data for different linear regression method like simple linear, polynomial regression 2, polynomial regression 3, and knn regression
 8. Confidence score prediction
 9. Sanity testing using test data and plotting prediction
-
+![Prediction Plot](prediction_plot.png?raw=true "Title")
