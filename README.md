@@ -11,4 +11,5 @@ Following are the steps covered for this prediction.
 6. Division of data to traing and testing sets using 80:20
 7. Generated model using traing data for different linear regression method like simple linear, polynomial regression 2, polynomial regression 3, and knn regression
 8. Confidence score prediction
-9. Sanity testing using test data
+9. Sanity testing using test data and plotting prediction
+
